@@ -1,0 +1,9 @@
+A note from Mark Zuckerberg on Facebook on Jan 4th 2016
+Every year, I take on a personal challenge to learn new things and grow outside my work at Facebook. My challenges in recent years have been to read two books every month, learn Mandarin and meet a new person every day.
+My personal challenge for 2016 is to build a simple AI to run my home and help me with my work. You can think of it kind of like Jarvis in Iron Man.
+I'm going to start by exploring what technology is already out there. Then I'll start teaching it to understand my voice to control everything in our home -- music, lights, temperature and so on. I'll teach it to let friends in by looking at their faces when they ring the doorbell. I'll teach it to let me know if anything is going on in Max's room that I need to check on when I'm not with her. On the work side, it'll help me visualize data in VR to help me build better services and lead my organizations more effectively.
+Every challenge has a theme, and this year's theme is invention.
+At Facebook I spend a lot of time working with engineers to build new things. Some of the most rewarding work involves getting deep into the details of technical projects. 
+I do this with Internet.org when we discuss the physics of building solar-powered planes and satellites to beam down internet access. I do this with Oculus when we get into the details of the controllers or the software we're designing. I do this with Messenger when we discuss our AI to answer any question you have. 
+But it's a different kind of rewarding to build things yourself, so this year my personal challenge is to do that.
+This should be a fun intellectual challenge to code this for myself. I'm looking forward to sharing what I learn over the course of the year.

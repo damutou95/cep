@@ -1,0 +1,26 @@
+Secret messages hidden in TV adverts can order smartphones to spy on people, researchers warn
+Popular apps downloaded by millions of people are always on the look out for clandestine broadcasts which order them to begin snooping on citizens.
+SECRET messages hidden in television adverts can order smartphones to quietly spy on their owners.
+That’s the shocking revelation in a new piece of research which exposes the scary snooping techniques corporations are using to pry into ordinary people’s lives in unprecedented detail.
+Television adverts can order a smartphone to begin surveilling its owner
+A team of German academics have noticed a huge growth in the number of Android apps that are designed to look out for inaudible “ultrasonic” signals.
+These signals contain a code which orders the apps to begin tracking people’s location, work out what they are watching on television and even expose intimate secrets about their personal life, such as their political affiliation or love of pornography.
+They have alleged that multinational corporations such as Krispy Kreme and McDonald’s have fitted the snooping software within apps.
+This graphic illustrates the different methods apps use to listen out for secret audio signals
+Apps that use the software can “precisely link the watching of even sensitive content such as adult movies or political documentations to a single individual – even at varying locations”, the researchers warned.
+“Advertisers can deduce what and how long an individual is watching and obtain a detailed user profile to deliver highly customised advertisements,” the team added.
+The spy apps use software called Silverpush which is designed to listen for “audio beacons” which humans cannot hear.
+Researchers from the Braunschweig University of Technology visited 35 high street stores in two unnamed European cities and found four were secretly broadcasting these signals.
+They also found an explosion in the number of Android apps which are constantly searching for audio beacons.
+In April 2015, just 39 apps were fitted with Silverpush.
+But the team found a total of 234 apps are now listening for ultrasonic signals – although this could be the tip of the iceberg.
+They did not manage to find television advertisements which used the “beacons”, but said Silverpush has patented software designed to listen out for messages broadcast through the telly.
+This means the technology could be used in the coming years.
+“The monitoring functionality is already deployed in mobile applications and might become a serious privacy threat in the near future,” they wrote.
+“Ultrasonic beacons are indeed present in everyday life without being noticed by most people.”
+Last year, the American Federal Trade Commission wrote to app developers and asked them to clarify if they were using Silverpush.
+“These apps were capable of listening in the background and collecting information about consumers without notifying them,” said Jessica Rich, director of the FTC’s Bureau of Consumer Protection.
+“Companies should tell people what information is collected, how it is collected, and who it’s shared with.”
+We have written to Krispy Kreme comment.
+A McDonald’s spokeswoman said: “The UK market does not use this technology.”
+A separate team of researchers recently warned that smartphone apps are “secretly colluding” to spy on you in terrifying detail.

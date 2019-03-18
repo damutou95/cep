@@ -1,0 +1,26 @@
+Các chuyên gia cảnh báo: thông điệp ẩn trong quảng cáo truyền hình có thể khiến điện thoại thông minh theo dõi người xem
+Các ứng dụng phổ biến mà hàng triệu người tải xuống luôn quan tâm tới các chương trình phát tán bí mật để có thể bắt đầu theo dõi người dùng.
+Những thông điệp ẩn trong quảng cáo truyền hình có thể khiến những chiếc điện thoại thông minh lặng lẽ theo dõi chủ sở hữu.
+Một phát hiện gây sốc trong một nghiên cứu mới cho thấy các kỹ thuật theo dõi đáng sợ mà các tập đoàn đang áp dụng để theo dõi cuộc sống thường ngày của mọi người chi tiết đến mức chưa từng thấy.
+Các quảng cáo trên truyền hình có thể khiến chiếc điện thoại thông minh bắt đầu giám sát người xem
+Một nhóm các nhà khoa học Đức đã nhận thấy một sự tăng mạnh về số lượng các ứng dụng Android được thiết kế để tìm ra những tín hiệu "siêu âm" không nghe được.
+Những tín hiệu này chứa mã lệnh cho phép các ứng dụng bắt đầu theo dõi vị trí của người sử dụng, tìm ra những gì họ đang xem trên truyền hình và thậm chí để lộ bí mật về cuộc sống cá nhân của họ, như liên kết chính trị hoặc nội dung khiêu dâm.
+Họ đã cáo buộc rằng các tập đoàn đa quốc gia như Krispy Kreme và McDonald's đã trang bị phần mềm theo dõi trong các ứng dụng.
+Hình minh họa này cho thấy những phương pháp khác nhau mà các ứng dụng dùng để nghe những tín hiệu âm thanh bí mật
+Các nhà nghiên cứu cảnh báo: các ứng dụng sử dụng phần mềm có thể "kết nối chính xác việc xem các nội dung nhạy cảm như phim dành cho người lớn hoặc tài liệu chính trị của một cá nhân - ngay cả ở các vị trí khác nhau".
+"Các nhà quảng cáo có thể suy luận ra thời gian mà một cá nhân đang xem chương trình và có được một hồ sơ người dùng chi tiết để đưa ra các quảng cáo có độ phù hợp cao", nhóm nghiên cứu cho biết thêm.
+Các ứng dụng theo dõi sử dụng phần mềm Silverpush được thiết kế để nghe "đèn hiệu âm thanh" mà con người không thể nghe được.
+Các nhà nghiên cứu từ Đại học Công nghệ Braunschweig đã đến 35 cửa hàng trên đại lộ của hai thành phố giấu tên ở châu Âu và tìm thấy bốn nơi đã bí mật phát sóng các tín hiệu này.
+Họ cũng tìm thấy một số lượng lớn các ứng dụng Android liên tục tìm kiếm những âm thanh tín hiệu dẫn đường.
+Chỉ có 39 ứng dụng được trang bị Silverpush trong tháng 4 năm 2015.
+Nhưng nhóm nghiên cứu đã tìm thấy tổng cộng 234 ứng dụng hiện đang thu các tín hiệu siêu âm - mặc dù đây có thể là chỉ mới là bể nổi.
+Họ đã không tìm thấy các quảng cáo truyền hình sử dụng "đèn hiệu", nhưng Silverpush đã được cấp bằng sáng chế cho phần mềm được thiết kế để nghe tin nhắn phát sóng qua điện thoại.
+Điều này có nghĩa là công nghệ này có thể sẽ được sử dụng trong những năm tới.
+Họ cho biết: "Các chức năng giám sát đã được triển khai trong các ứng dụng di động và có thể trở thành một mối đe dọa bảo mật nghiêm trọng trong tương lai gần".
+"Đèn hiệu siêu âm thực sự có mặt trong cuộc sống hàng ngày mà hầu hết mọi người không chú ý."
+Năm ngoái, Ủy ban Thương mại Liên bang Mỹ đã gửi thư cho các nhà phát triển ứng dụng và yêu cầu họ làm rõ vấn đề nếu họ sử dụng Silverpush.
+Jessica Rich, giám đốc Cục bảo vệ người tiêu dùng của FTC cho biết "Các ứng dụng này có khả năng nghe và thu thập thông tin về người dùng mà không thông báo cho họ".
+"Các công ty nên thông báo cho người dùng về những thông tin được thu thập, cách thu thập thông tin và những người được chia sẻ thông tin"
+Chúng tôi đã viết cho lời nhận xét của Krispy Kreme.
+Một phát ngôn viên của McDonald nói rằng: "Thị trường Anh không sử dụng công nghệ này."
+Một nhóm nghiên cứu riêng biệt gần đây đã cảnh báo rằng các ứng dụng dành cho điện thoại thông minh "bí mật kết nối" để theo dõi bạn cụ thể đến khủng khiếp.

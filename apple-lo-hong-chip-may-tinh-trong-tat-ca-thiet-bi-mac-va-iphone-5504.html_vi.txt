@@ -1,0 +1,20 @@
+Apple: Lỗ hổng chip máy tính trong tất cả thiết bị Mac và iPhone
+Apple đã xác nhận rằng tất cả các máy iPhone, iPads và Mac đều bị ảnh hưởng bởi hai lỗ hổng lớn trong chip máy tính.
+Các công ty công nghệ đã chạy đua để khắc phục lỗ hổng Meltdown và Spectre được phát hiện hồi đầu tuần này, có thể cho phép tin tặc ăn cắp dữ liệu,
+Hàng tỷ máy tính, smartphone và máy tính bảng trên khắp thế giới bị ảnh hưởng - Apple đã xác nhận sản phẩm của mình cũng bị vậy.
+Công ty đã phát hành một số bản vá lỗi để giảm thiểu phần nào hậu quả của lỗ hổng Meltdown.
+Hãng cho biết không có bằng chứng nào cho thấy cả hai lỗ hổng đã bị lợi dụng, nhưng khuyên người sử dụng chỉ tải phần mềm từ nguồn tin cậy và tránh các ứng dụng ''độc''.
+Người sử dụng Mac thường tin rằng các thiết bị và hệ điều hành của họ có ít rủi ro bảo mật hơn, ví dụ như điện thoại Android hoặc máy tính chạy hệ điều hành Microsoft.
+Các lỗi Meltdown và Spectre được tìm thấy trong nhiều thiết bị xử lý máy tính hiện đại - hoặc các vi mạch - do Intel và ARM sản xuất và hai hãng này cùng cung cấp cho hầu hết toàn bộ thị trường máy tính toàn cầu.
+"Tất cả hệ thống máy Mac và các thiết bị iOS đều bị ảnh hưởng, nhưng không có vụ bị lợi dụng nào có ảnh hưởng đến khách hàng vào thời điểm này", Apple cho biết trong bài đăng trên blog về vấn đề này.
+"Những vấn đề này áp dụng cho tất cả các bộ xử lý hiện đại và ảnh hưởng đến gần như tất cả các thiết bị máy tính và hệ điều hành."
+Apple cho biết họ đã phát hành "các biện pháp giảm thiểu hậu quả" chống lại Meltdown trong bản cập nhật hệ điều hành iPhone và iPad mới nhất - iOS 11.2 và macOS 10.13.2 cho MacBooks và iMac.
+Meltdown không ảnh hưởng tới Đồng hồ Apple, hãng cho biết
+Các bản vá lỗi Spectre, dưới dạng cập nhật trình duyệt web Safari, sẽ được phát hành "trong những ngày sắp tới".
+Google và Microsoft đã đưa ra các công bố cho người dùng biết sản phẩm nào bị ảnh hưởng bởi các lỗi này.
+Google cho biết các điện thoại Android của họ - chiếm hơn 80% thị trường toàn cầu - đã được bảo vệ nếu người dùng có các bản cập nhật bảo mật mới nhất.
+Và Microsoft đã phát hành bản vá lỗi cho nhiều dịch vụ của mình.
+Người dùng Windows nên biết rằng phần mềm chống vi-rút của bên thứ ba có thể cần phải được cập nhật trước khi áp dụng các bản vá lỗi hệ điều hành.
+Nhà nghiên cứu bảo mật Kevin Beaumont đang duy trì danh sách trực tuyến các sản phẩm chống vi-rút đã được cập nhật.
+Chỉ dẫn của dự án an ninh mạng CER của Mỹ, được tài trợ bởi chính phủ liên bang, ban đầu khuyến cáo người dùng máy tính rằng để loại bỏ hoàn toàn lỗ hổng này, họ sẽ phải "thay thế" bộ vi xử lý phần cứng.
+Giờ đây CER đã thay đổi lời khuyên thành người dùng nên "sử dụng bản cập nhật" để giảm nguy cơ bị tấn công thay vào đó.

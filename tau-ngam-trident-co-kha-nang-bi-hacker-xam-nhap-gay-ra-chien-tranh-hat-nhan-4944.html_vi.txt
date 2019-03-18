@@ -1,0 +1,24 @@
+Tàu ngầm Trident có khả năng bị hacker xâm nhập gây ra chiến tranh hạt nhân
+Một báo cáo của Hội đồng Thông tin An ninh Mỹ – Anh, có trụ sở ở Whitehall, đã chỉ ra những sai sót an ninh nguy hiểm trong chương trình vũ khí hạt nhân của Anh.
+Các chuyên gia cảnh báo hacker có thể kiểm soát tàu ngầm Trident và khởi đầu một cuộc chiến tranh hạt nhân 'thảm khốc'.
+Một báo cáo của Hội đồng Thông tin An ninh Mỹ – Anh (BASIC) đã chỉ ra những sai sót an ninh nguy hiểm trong chương trình vũ khí hạt nhân của Anh.
+Nếu bị khai thác, những lỗi bảo mật này có thể dẫn đến thiệt hại nghiêm trọng về tính mạng và sẽ khiến nước Anh không thể tự vệ trước cuộc tấn công.
+Tàu ngầm Vanguard của Hải quân Hoàng gia mang theo tên lửa trident. Nước Anh có một đội tàu gồm bốn chiếc Vanguard với ít nhất một chiếc tuần tra luôn mang theo 16 đầu đạn
+Báo cáo Basic dài 38 trang cảnh báo vi phạm an ninh có thể "vô hiệu hóa các hoạt động, dẫn đến thiệt hại về tính mạng, đánh bại hoặc thậm chí là sự chuyển đổi đầy thảm họa của các đầu đạn hạt nhân (trực tiếp hay gián tiếp)".
+Tốc độ của tiến bộ công nghệ hiện nay nhanh đến nỗi thậm chí các tàu ngầm được trang bị các biện pháp an ninh tốt nhất cũng có thể bị tấn công.
+Báo cáo Basic đưa ra lý luận rằng các hacker và bọn tội phạm trực tuyến đơn độc không có kỹ năng để "tiến hành các hoạt động đòi hỏi có quy mô và tinh vi liên quan đến việc thâm nhập hệ thống Trident".
+Thay vào đó, họ tin rằng cuộc tấn công có thể được tiến hành bởi một quốc gia khác.
+Các chuyên gia cho biết: "Chúng tôi không nói về một thiếu niên xấu xa đơn độc trong trong việc xâm nhập nền tảng để kiểm soát tên lửa và đầu đạn hạt nhân rồi khởi đầu một cuộc chiến tranh hạt nhân.
+"Thay vào đó, chúng tôi xem xét mối đe dọa đáng chú ý là do một số khởi động dư thừa từ sự đầu tư mở rộng của các quốc gia đứng đầu vào khả năng không gian mạng, cùng với các mạng lưới tình báo hiện có của họ."
+Trident là vũ khí hạt nhân của Anh Quốc và được tạo thành từ bốn tàu ngầm lớp Vanguard.
+Mỗi tàu có thể mang tới 16 tên lửa đạn đạo Trident II D5.
+Tàu ngầm hạt nhân trải qua hơn một nửa thời gian trên biển và rất ít thành viên trên tàu nhận thức được nơi họ đang ở.
+Các tàu ngầm không được kết nối với internet diện rộng và rất khó để theo dõi hoặc xâm nhập.
+Tuy nhiên, báo cáo cảnh báo rằng khi các tàu ngầm đang ở trong cảng để bảo dưỡng định kỳ và tân trang, họ có thể bị 'tiêm' vào phần mềm độc hại.
+Phần mềm độc hại này có thể nằm ngủ đông, chờ đợi kích hoạt từ xa vào những thời khắc then chốt.
+Tàu ngầm hạt nhân trải qua hơn một nửa thời gian trên biển và rất ít thành viên trên tàu nhận thức được nơi họ đang ở
+Việc gây nhiễm phần mềm độc hại theo cách này có thể cho phép các quốc gia đối địch vô hiệu hóa vũ khí hạt nhân trong thời điểm chiến tranh, theo như báo cáo cảnh báo.
+Báo cáo cho biết: "Dựa vào các máy tính, phần mềm phức tạp và các dòng mã vô tận, hệ thống Trident không thể phủ nhận có thể bị công kích bởi sự can thiệp của mạng".
+Des Browne, cựu Bộ trưởng Quốc phòng Anh, nói với The Guardian rằng mối đe dọa xâm nhập hệ thống của tàu ngầm hạt nhân nên được nhìn nhận một cách hết sức nghiêm túc.
+"Mã độc WannaCry tấn công hồi đầu tháng này đã làm ảnh hưởng tới 300.000 máy tính trên toàn thế giới, bao gồm các dịch vụ NHS quan trọng, đây chỉ là thử qua về những gì có thể xảy ra khi vũ khí không gian mạng bị đánh cắp", ông nói.
+"Hãy tưởng tượng các hệ thống kỹ thuật số quan trọng nằm trong hệ thống vũ khí hạt nhân có thể được miễn dịch hoặc có thể được bảo vệ chắc chắn bởi các đội quản lý mạng chuyên dụng là một chuyện hoàn toàn tự mãn một cách vô trách nhiệm".

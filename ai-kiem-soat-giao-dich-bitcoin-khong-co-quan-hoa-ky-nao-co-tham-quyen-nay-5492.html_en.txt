@@ -1,0 +1,34 @@
+Who Regulates Bitcoin Trading? No U.S. Agency Has Jurisdiction
+Futures regulators at the CFTC recently sounded an alarm on leveraged trading on unregulated exchanges, while the SEC cracks down on ICOs
+WASHINGTON—Investors are frantically trying to learn everything they can about bitcoin—and so are regulators.
+Furious trading in cryptocurrencies is testing many in the Trump administration who are eager to embrace financial innovation, after nearly a decade of tighter clamps on risk-taking put in place after the 2008 financial crisis.
+The Commodity Futures Trading Commission, the agency with closest oversight of bitcoin trading, began the year by launching an in-house lab to encourage advances in blockchain, the technology that underpins digital currencies. 
+Yet the regulator recently sounded an alarm on bitcoin itself, noting most exchanges are completely unregulated while the cryptocurrency is prone to wild price swings and potential flash crashes.
+The CFTC has labeled bitcoin a commodity, but as with other commodities, the agency mostly lacks jurisdiction over the primary market: It regulates corn futures contracts but not the buying and selling of corn itself, for instance. 
+As a result, bitcoin exchanges don’t have to tell participants how they operate, such as whether they offer preferential access to certain traders.
+“A lot of people, retail traders in particular, have gotten used to securities laws and commodities laws protecting them,” said Kipp Rogers, a former proprietary trader who is now a blogger and researcher. “And so they don’t just even know what to be on guard for.”
+The Securities and Exchange Commission faces challenges similar to the CFTC’s. The SEC’s new chairman, Jay Clayton, wants retail investors to have better access to high-return investments, which bitcoin and many of its digital relatives provide.
+But the SEC is cracking down on initial coin offerings, a fundraising vehicle that piggybacks off investors’ lust for bitcoin and in some cases violates core investor-protection laws.
+“There is clearly demand for bitcoin investments, but the regulators are struggling with how to balance new tools for capital formation with the need for investor protections,” said Michael Liftik, a partner at Quinn Emanuel Urquhart & Sullivan LLP and previously a top aide to former SEC Chairman Mary Jo White.
+CFTC Chairman J. Christopher Giancarlo has enthusiastically embraced blockchain technology and has spoken positively about how it will “challenge orthodoxies” in financial-market infrastructure. 
+He has warned regulators about stifling innovation by being overly prescriptive about how blockchain can be used.
+The CFTC has limited power to constrain growth of cryptocurrency derivatives. Futures exchanges, which launched new contracts on bitcoin this month, can effectively launch new products without the CFTC’s approval by declaring they have controls to guard against manipulation. 
+The CFTC has emergency authority to halt trading of futures but has used it only five times in its 43-year history.
+The CFTC also can regulate bitcoin markets that lend traders money to increase their bets, known as leveraged trading. 
+Last year, the CFTC reached a $75,000 settlement with Bitfinex, an exchange that CFTC said offered leveraged trading without the commission’s approval. Bitfinex didn’t respond to requests for comment. 
+Earlier, Bitfinex said it “made significant changes” to come in line with CFTC rules.
+Other exchanges, including the popular Coinbase GDAX exchange, also have aligned their leveraged trading with U.S. law. GDAX is one of four exchanges whose trading activity makes up the reference price for CME Group Inc.’s bitcoin futures contracts. 
+Coinbase faced manipulation-related allegations recently and had to halt trading of its Bitcoin Cash product briefly last week due to concerns about possible insider trading by Coinbase employees. The company said it would investigate the matter.
+The SEC is waging its own cryptocurrency battles. 
+It has come down hard on initial coin offerings, or ICOs, a type of unregulated fundraising in which people pay in cash or in cryptocurrencies to get new digital tokens that can entitle their owners to future products or services developed by the company. 
+The SEC has said many of the deals are actually securities sales.
+“They are just digging in on a case-by-case basis and trying to look at all of the token offerings,” said Michael Didiuk, a former regulator who specialized in blockchain technology at the SEC and now is a partner at Perkins Coie LLP.
+The SEC has sued two ICOs that it said committed fraud by allegedly taking investors’ money for tokens that didn’t exist or promising outlandish returns.
+This month, the SEC intervened to halt a $15 million ICO by Munchee Inc., a restaurant app, saying the deal should have been registered as a securities offering.
+Many issuers say their tokens will trade, just like cryptocurrencies, on platforms that function as exchanges. 
+There are now so many tokens trading that some securities lawyers say the landscape resembles the market for micro-cap companies, thinly traded stocks that are easily manipulated by promoters and pump-and-dump artists.
+“When there is a lot of money in the space, you get well-meaning entrepreneurs and you get charlatans only looking to scalp, and pump and dump, and flip ICOs,” said Chris Padovano, a New York attorney specializing in advising blockchain-based businesses.
+While many cryptocurrency and token exchanges are based overseas, SEC officials believe their authority can extend beyond U.S. borders, according to people familiar with the matter. 
+The issue would turn on whether an exchange solicited U.S. investors or knew its activity would attract U.S. participants, the people said.
+Other countries have also stepped up scrutiny of ICOs. China banned them in September, as part of a broader crackdown on cryptocurrencies. 
+Regulators in Hong Kong and Singapore have also warned against ICOs, citing concerns about fraud, money laundering and terrorist financing. South Korean regulators have said they would ban ICOs, without giving details.

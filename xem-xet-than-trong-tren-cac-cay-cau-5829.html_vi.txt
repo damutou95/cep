@@ -1,0 +1,27 @@
+Xem xét thận trọng trên các cây cầu
+Hầu hết các cây cầu đường bộ và đường sắt chỉ được kiểm tra bằng bằng mắt, nếu có bất kỳ kiểm tra nào.
+Cứ vài tháng, các kỹ sư phải leo qua công trình để lỗ nực tìm ra các vấn đề trước khi cây cầu có những dấu hiệu rõ ràng về thiệt hại.
+Những công nghệ phát triển tại Phòng thí nghiệm Quốc gia Los Alamos, New Mexico và Đại học Texas A & M có thể thay cho các cuộc khảo sát này bằng các cảm biến vi sóng, nó được dùng để giám sát liên tục tình trạng của các cây cầu.
+Thiết bị sử dụng sóng cực ngắn để đo khoảng cách giữa cảm biến và cây cầu, nó hoạt động giống như radar, Albert Migliori, một nhà vật lý học của Los Alamos cho biết: "Bất cứ một tải nào trên cây cầu - chẳng hạn như giao thông gây ra sự dịch chuyển, đều làm thay đổi khoảng cách đó cũng giống như việc cầu di chuyển lên xuống.
+"Bằng cách theo dõi các chuyển động này trong vài phút, các nhà nghiên cứu có thể tìm ra cách cây cầu này cộng hưởng.
+Sự thay đổi trạng thái hoạt động của nó có thể đưa ra cảnh báo sớm về thiệt hại.
+Cây cầu nối liên tiểu bang 40 trên sông Rio Grande ở Albuquerque giúp các nhà nghiên cứu có cơ hội hiếm hoi để viết lên ý tưởng của họ.
+Chuck Farrar, một kỹ sư ở Los Alamos, giải thích: "Chính quyền New Mexico đã quyết định phá hủy hoàn toàn cây cầu này và thay thế nó.
+Chúng tôi đã có thể gắn các thiết bị lên trên cầu, kiểm tra nó dưới các điều kiện tải khác nhau và thậm chí gây ra thiệt hại ngay trước khi nó bị phá hủy.
+"Trong những năm 1960 và 1970, 2500 chiếc cầu tương tự đã được xây dựng ở Mỹ.
+Chúng có hai dầm thép hỗ trợ tải trọng ở mỗi phần.
+Các chuyên gia về đường cao tốc biết rằng thiết kế này tạo ra "đứt gãy không mong muốn" bởi vì một sự cố của một trong hai dầm sẽ là nguyên nhân dẫn đến cầu bị hỏng.
+Sau khi lắp đặt đĩa vi sóng trên mặt đất dưới cầu, đội Los Alamos đã lắp đặt các gia tốc kế thông thường tại một vài điểm dọc theo nhịp cầu để đo chuyển động của nó.
+Sau đó, họ kiểm tra chiếc cầu trong khi giao thông tạo ra âm thanh lên trên các cảm biến và cùng thời điểm đó cảm biến khi phơi nó từ "shaker", phát ra cú đấm chính xác tới một điểm cụ thể trên đường.
+"Sau đó, chúng tôi gây ra thiệt hại mà chúng tôi hy vọng sẽ mô phỏng các vết gãy kém sức chịu đựng mà có thể xảy ra trong dầm thép," Farrar nói.
+Lần đầu tiên họ cắt một khe dài khoảng 60 cm ở giữa một dầm.
+Sau đó họ mở rộng vết cắt cho đến khi nó chạm đến đáy dầm và cuối cùng họ cắt ngang cạnh - phần dưới của dầm hình chữ "I".
+Việc phân tích sơ bộ trạng thái của cây cầu, dựa trên tần số mà cây cầu cộng hưởng, không cho thấy bất cứ lỗi nào cho đến khi mặt bích bị hư hỏng.
+Nhưng sau đó, dữ liệu được phân tích lại bằng các thuật toán, cái mà tính đến các thay đổi trong các hình dạng của cấu trúc- các hình dạng mà cấu trúc đó thực hiện khi bị kích thích ở một tần số cụ thể.
+Những thuật toán phức tạp hơn này được phát triển bởi Norris Stubbs tại Đại học Texas A & M, Ông đã xác định thành công và xác định được vị trí thiệt hại mà do vết cắt ban đầu.
+"Khi bất kỳ cấu trúc dao động, năng lượng được phân tán qua một vài điểm không chuyển động, trong khi những điểm khác dao động mạnh ở các tần số khác nhau", Stubbs nói.
+Thuật toán của tôi sử dụng nhận dạng mẫu để phát hiện sự thay đổi trong sự phân bố năng lượng này.
+NASA đã sử dụng phương pháp của Stubbs để kiểm tra trạng thái của phần vành khối, cái mà làm chậm lại tàu con thoi sau khi chúng được hạ cánh.
+Một hệ thống thương mại dựa trên phần cứng của Los Alamos hiện đã có, hoàn chỉnh với các thuật toán Stubbs, từ Tổng công ty Quatro ở Albuquerque với giá khoảng 100,000 USD.
+Tim Darling, một nhà vật lý khác của Los Alamos làm việc trên giao thoa kế vi sóng cùng với Migliori, nói rằng khi các thiết bị điện tử trở nên rẻ hơn, một hệ thống kiểm tra vi sóng cuối cùng sẽ được áp dụng cho hầu hết các cây cầu lớn ở Mỹ.
+Ông nói: "Trong một thập kỷ, tôi muốn thấy pin hoặc bộ năng lượng mặt trời được gắn dưới mỗi cây cầu, quét nó mỗi ngày để phát hiện ra những thay đổi xảy ra.

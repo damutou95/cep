@@ -1,0 +1,19 @@
+Trong những năm sắp tới, người dân sẽ được hưởng lợi từ giao thông thông minh 
+Những người tham gia giao thông trong nước, đặc biệt là ở các thành phố lớn, dự kiến trong những năm sắp tới sẽ được hưởng lợi từ một hệ thống giao thông thông minh giống như những hệ thống ở các nước phát triển.
+Đó là do Bộ Giao thông vận tải mới đây đã ra chỉ thị cho các cơ quan có liên quan đẩy nhanh tiến độ xây dựng hệ thống bản đồ giao thông số trong nước.
+Bản đồ được thiết kế nhằm nâng cao năng lực quản lý của các cơ quan được ủy quyền cũng như cung cấp các thông tin hữu ích cho người tham gia giao thông.
+Báo Hà Nội Mới đưa tin, nhằm tăng nhanh tiến độ, các cơ quan có liên quan sẽ sửa chữa các thiếu sót của những chương trình thí điểm nhằm xây dựng hệ thống bản đồ giao thông số.
+Đại diện Tổng cục Đường bộ Việt Nam cho biết, trong năm 2013, cơ quan được ủy quyền đã làm việc với hai nhà cung cấp dịch vụ nội địa để xây dựng một hệ thống kết nối dữ liệu từ thiết bị giám sát hành trình được cài đặt trong 650.000 xe của các công ty vận tải; tích hợp với hệ thống biển báo và hệ thống các trạm cân xe trong nước.
+Tuy nhiên, đã phát sinh các mâu thuẫn giữa hai nhà cung cấp, do đó, chương trình ít hiệu quả hơn so với dự kiến, ông nói.
+Hai năm sau, Cục Đường thủy nội địa Việt Nam cũng bắt đầu kế hoạch xây dựng bản đồ giao thông đường thủy kỹ thuật số. Do thiếu nguồn lực tài chính, chính quyền đã xây dựng bản đồ dựa trên các bản đồ Google miễn phí. Và một trong những khuyết điểm chính đó là không thể trích xuất dữ liệu từ bản đồ hành chính.
+Ông Phạm Duy Ninh, Giám đốc Trung tâm Công nghệ thông tin (Bộ GTVT) cho biết những chính sách của Bộ về việc xây dựng bản đồ số hiện đã kết hợp các quỹ của Nhà nước và vốn đầu tư từ các khu vực tư nhân. Điều này sẽ giúp khắc phục tình trạng thiếu thốn ngân sách.
+Chính quyền thủ đô đã lên kế hoạch đến năm 2020 sẽ biến Hà Nội thành một thành phố thông minh. Một trong các hạng mục ưu tiên của kế hoạch là thiết lập các bản đồ giao thông số của thành phố.
+Để làm điều đó, trong tháng năm, Ủy ban nhân dân Hà Nội đã cho phép dự án của tập đoàn FPT xây dựng một hệ thống giao thông thông minh (ITS) cho thành phố.
+ITS là một sự kết hợp giữa công nghệ tiên tiến và cơ sở hạ tầng giao thông nhằm quản lý và vận hành hệ thống giao thông vận tải.
+Hệ thống bao gồm một trung tâm điều hành, các hệ thống giám sát giao thông, cung cấp tin tức giao thông, cũng như bảo mật, an toàn và hệ thống kiểm soát trường hợp khẩn cấp.
+Cũng trong tháng này, một chương trình thí điểm sử dụng phần mềm và công nghệ tự động để quản lý các bãi đậu xe công cộng đã được áp dụng trên hai con đường là Lý Thường Kiệt và Trần Hưng Đạo ở quận Hoàn Kiếm.
+Chương trình do Công ty Khai thác Bãi đỗ xe Hà Nội phát triển và thực hiện, bao gồm lập bản đồ số khu vực đỗ xe, sử dụng phần mềm quản lý và lắp đặt máy quay để ghi lại biển số đăng ký xe tại bãi đậu xe.
+Tất cả thông tin liên quan đến bãi đỗ xe sẽ có trên mạng và chủ sở hữu xe hơi sẽ có thể tìm và đặt trước chỗ đậu xe trên các thiết bị như điện thoại thông minh và máy tính bảng.
+Công nghệ thông minh đằng sau hệ thống cũng sẽ giúp các chủ xe có thể đậu xe mà không cần sự giúp đỡ của nhân viên giữ xe.
+Ba tuần trước, Sở Giao thông vận tải Hà Nội và Tổng công ty Vận tải Hà Nội đã đề xuất với Ủy ban Nhân dân một chương trình thí điểm về sử dụng thẻ giao thông điện tử trên BRT tuyến số 01, nối bến xe khách Kim Mã và Yên Nghĩa.
+Khách du lịch sử dụng thẻ điện tử trên bộ cảm biến để thanh toán tiền và có thể nạp tiền vào thẻ tại mỗi trạm trên tuyến đường. Điều này tránh cho họ đỡ phải mua vé đơn từng chặng cho mỗi chuyến đi. Chương trình thí điểm dự kiến sẽ bắt đầu vào tháng 9 và tháng 10.

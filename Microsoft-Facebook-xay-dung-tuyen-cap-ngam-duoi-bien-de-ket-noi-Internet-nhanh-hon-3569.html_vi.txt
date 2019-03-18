@@ -1,0 +1,6 @@
+Microsoft, Facebook xây dựng tuyến cáp ngầm dưới biển để kết nối Internet nhanh hơn
+Công việc Xây dựng bắt đầu vào tháng Tám và hoàn thành tháng 10 năm 2017.
+Microsoft và Facebook đang hợp tác để xây dựng một đường cáp ngầm dưới Đại Tây Dương để mang lại các dịch vụ trực tuyến và điện toán đám mây nhanh chóng cho khách hàng của cả hai công ty.
+Cáp được thiết kế để truyền tải băng thông 160 terabyte mỗi giây, đây sẽ là tốc độ cáp cao nhất dưới Đại Tây Dương, công ty cho biết trong một công bố. Nó sẽ được vận hành bởi Telxius, một đơn vị của Telefonica SA. Tuyến cáp sẽ kéo dài 6.600 km (4.100 dặm) từ bờ biển Virginia, Virginia, đến Bilbao, Tây Ban Nha.
+Microsoft đang gia tăng nhu cầu đối với việc truy cập nhanh chóng và đáng tin cậy với các dịch vụ như Skype và điện toán đám mây dành cho các chương trình văn phòng của mình trong khi Facebook cần tốc độ nhanh hơn để video sẽ đóng một vai trò lớn hơn trong phương tiện truyền thông xã hội. Microsoft mua lại cổ phần của Facebook trong năm 2007 và hai công ty đã làm việc với nhau về các sáng kiến giống như việc tìm kiếm trong quá khứ.
+Việc xây dựng tuyến cáp được gọi là Marea, từ Tây Ban Nha cho thủy triều, sẽ bắt đầu vào tháng Tám năm 2016 và dự kiến sẽ được hoàn thành vào Tháng 10 năm 2017, theo kết quả báo cáo.

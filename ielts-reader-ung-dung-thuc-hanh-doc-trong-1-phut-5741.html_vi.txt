@@ -1,0 +1,7 @@
+IELTS Reader - Ứng dụng thực hành đọc trong 1 phút 
+IELTS Reader được biên soạn theo hướng thực hành chuyên biệt cho từng loại câu hỏi và phù hợp cho cả 2 nhóm thí sinh khi đăng ký vào chương trình IELTS: Học thuật (Academic) và Phổ thông (General). 
+Có 6 dạng câu hỏi được biên soạn trong ứng dụng này và đó cũng là những dạng câu hỏi phổ biến trong các bài thi IELTS Reading. 
+1. Information identification questions    - True/False/Not Given    - Yes/No/Not Given2. Multiple choice questions3. Information matching   - Matching headings    - Matching Paragraph information4. Matching sentence endings 5. Gap filling    - Sentence completion   - Summary completion   - Table Completion   - Flow Chart Completion   - Diagram Completion   - Short answer question6. List selection
+Theo kinh nghiệm giảng dạy của chúng tôi, cách hiệu quả nhất trong giai đoạn chuẩn bị cho kỳ thi IELTS đó là thực hành đọc các đoạn văn ngắn mà người đọc chỉ cần dành ra những khoảng thời gian trống trong ngày để thực hành. Thực ra, học viên của chúng tôi chỉ mất trung bình từ 3-5 phút để hoàn thành một bài tập. 
+Các bài tập cũng điểm qua đầy đủ các chủ đề hay gặp trong các sách luyện thi IELTS. Vì vậy, những người dùng ứng dụng này sẽ sớm làm quen với các nội dung khác nhau và học được nhiều từ vựng liên quan cho mỗi chủ đề. 
+Hơn thế nữa, ứng dụng này được thiết kế tinh tế và tương thích với nền tảng iOS với các tính năng cũng như cách thức sử dụng. Do đó, trả nghiệm của bạn trên các thiết bị của Apple sẽ được hỗ trợ tốt nhất với ứng dụng của chúng tôi.

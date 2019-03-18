@@ -1,0 +1,12 @@
+Updates from Mark Zuckerberg: Some rare photos of the most advanced technology Facebook around the world | Part 1
+Over the next few months, I'm going to start posting some rare photos of the most advanced technology Facebook is building around the world.
+We're starting deep in the forests of northern Sweden with the Luleå data center. It's a key part of our global infrastructure, and it uses a variety of local natural resources to increase efficiency and save power.
+The small town of Luleå is less than 70 miles south of the Arctic Circle, and it's typically pretty cold. The temperature in the area is below 50 degrees most days, so we use large fans to pull in the outside air to naturally cool the thousands of warm servers that line the center’s broad hallways. A dozen hydro-electric plants operate on nearby rivers, providing a reliable and renewable power source. The whole system is 10% more efficient and uses almost 40% less power than traditional data centers.
+Inside, the main building is the size of six football fields. Nearly all the technology in the facility, from the servers to the power distribution systems, is based on Open Compute Project designs as well.
+You probably don't think about Luleå when you share with friends on Facebook, but it's an example of the incredibly complex technology infrastructure that keeps the world connected. I'm looking forward to sharing photos of more of our advanced technology soon.
+I love this shot because it looks like a sci-fi movie. These enormous fans draw in the outside air to cool the tens of thousands of servers in the data hall. In the winter, when temperatures plunge to -30 degrees the situation is reversed, and the heat from the servers warm the massive buildings.
+“There is no more efficient data center in the world.” - Jay Park, Director of Data Center Design Engineering.
+The data center is huge, but the idea that launched it began on the back of this paper napkin. Late one night, while traveling, engineer Jay Park sketched his vision for a system that streamlined the way power moves from the local utility grid to our servers.
+About 150 people work here, but the data halls are frequently empty. Because of the simplified design, we need only one technician for every 25,000 servers.
+The main data hall is so big that engineers move around on scooters.
+The equipment is reduced to its basics so it runs cooler. It can also be easily accessed and repaired quickly. A few years ago, it took an hour to repair a server hard drive. At Luleå, that’s down to two minutes.

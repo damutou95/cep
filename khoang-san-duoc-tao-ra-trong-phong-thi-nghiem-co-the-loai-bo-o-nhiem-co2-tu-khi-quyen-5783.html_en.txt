@@ -1,0 +1,24 @@
+Mineral created in lab that can remove CO2 pollution from atmosphere
+Though still in preliminary stages, scientists welcome 'big step forward' in efforts to reduce greenhouse gas levels and curtail climate change
+Researchers have found a way to fast-track the production of magnesite crystals, which can absorb CO2 from the atmosphere ( Ian Power )
+Scientists have found a way to produce a mineral, known as magnesite, in a lab that can absorb CO2 from the atmosphere, offering a potential strategy for tackling climate change.
+By reducing a process that normally takes thousands of years to a matter of days, the research could boost the burgeoning field of carbon capture and storage (CCS).
+As the world struggles to cut spiralling greenhouse gas emissions, experts broadly agree that technologies that suck CO2 from the air will be an essential tool to curtail global warming.
+Magnesite is a naturally occurring rock used in jewellery and for various industrial processes, and its carbon-storing capacity was already known to scientists.
+Every ton of magnesite is capable of removing around half a ton of CO2 from the atmosphere.
+However, while previous studies have explored the potential of storing polluting gases in underground rock formations, the potential of these activities is hampered by the time it takes for new minerals to form.
+“This is a process which takes hundreds to thousands of years in nature at Earth’s surface,” explained Professor Ian Power, who led the new research at Trent University.
+To overcome this issue, Professor Power and his team identified the processes that form magnesite naturally at low temperatures, and then used this knowledge to dramatically accelerate its crystallisation.
+Using polystyrene microspheres as a catalyst to speed up the reactions that form this rock, they reduced its creation time to 72 days.
+The whole process takes place at room temperature, making it extremely energy efficient.
+“For now, we recognise that this is an experimental process, and will need to be scaled up before we can be sure that magnesite can be used in carbon sequestration (taking CO2 from the atmosphere and permanently storing it as magnesite),” said Professor Power.
+“This depends on several variables, including the price of carbon and the refinement of the sequestration technology, but we now know that the science makes it doable”.
+These results were presented by the scientists at the Goldschmidt geochemistry conference in Boston.
+CCS technologies feature prominently in many plans to reach the targets set by the international Paris climate agreement and avert catastrophic climate change.
+However, some prominent scientists have described the expectations placed on them as “seriously over-optimistic” considering the lack of industry-ready procedures.
+Despite these misgivings, there is general acceptance that such technologies must be developed hand-in-hand with carbon emissions cuts, and scientists have broadly welcomed the breakthrough in carbon storage presented by Professor Power and his team.
+“It is really exciting that this group has worked out the mechanism of natural magnesite crystallisation at low temperatures, as has been previously observed – but not explained – in weathering of ultramafic [magnesium-rich and low silica] rocks,” said Professor Peter Kelemen, a carbon capture expert at Columbia University who was not involved in the study.
+“The potential for accelerating the process is also important, potentially offering a benign and relatively inexpensive route to carbon storage, and perhaps even direct CO2 removal from air.”
+Dr Gareth Johnson, another expert from the University of Edinburgh who did not contribute to the new research, agreed this was a “big step forward”.
+“Carbon storage by mineral precipitation has been investigated over the last decades, but, as with carbon capture at power plants or industrial sources and the associated geological storage in sedimentary basins, has often come up against an energy and financial barrier,” he said.
+“Though clearly at an early stage the research demonstrating a less energy intensive and lower cost route to magnesite precipitation is very welcome.”

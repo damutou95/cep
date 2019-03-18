@@ -1,0 +1,29 @@
+Tấn công toàn cầu Ransomware: Những điều chúng ta biết và không biết
+Một cuộc tấn công ransomware đang lan rộng nhanh chóng ở khắp các quốc gia trên thế giới bao gồm Pháp, Nga, Tây Ban Nha, Ukraina và Hoa Kỳ, chỉ vài tuần sau cuộc tấn công mang tên WannaCry.
+NƠI NÓ BẮT ĐẦU. Microsoft phát biểu rằng vụ tấn công có nguồn gốc từ Ukraina, nơi mà các hacker lần đầu tiên nhắm tới M.E.Doc, một công ty phần mềm kế toán-thuế, và ransomware đã sớm lan rộng đến ít nhất 64 quốc gia. ESET, một công ty an ninh không gian mạng ở Slovakia, cũng cho biết sự lây nhiễm đầu tiên được biết đến là thông qua M.E.Doc. (Xem dưới đây để xem giải thích về ransomware.)
+M.E.Doc phủ nhận rằng họ là nạn nhân đầu tiên trong một bài đăng trên Facebook, mặc dù một tin nhắn trước đó đã xác nhận rằng hệ thống của họ đã bị xâm nhập.
+MỨC ĐỘ LÂY LAN CỦA NÓ. Hơn 12.500 máy tính chạy các phiên bản cũ của Microsoft Windows đã bị nhắm đến ở Ukraina, theo Microsoft, mặc dù vụ tấn công nhanh chóng lan đến 64 quốc gia.
+Một số công ty tư nhân đã xác nhận rằng họ đã bị tấn công, bao gồm:
+• Tập đoàn dược phẩm khổng lồ Mỹ Merck.
+• Công ty vận tải Đan Mạch AP Moller-Maersk.
+• Công ty quảng cáo Anh WPP.
+• Tập đoàn đa quốc gia Pháp Saint-Gobain.
+• Một đơn vị của ngân hàng BNP Paribas.
+• Công ty thép và khai khoáng Nga Evraz.
+• Công ty năng lượng Nga Rosneft.
+• Công ty thực phẩm Mỹ Mondelez International.
+Giao dịch cổ phiếu của FedEx đã tạm dừng ngay hôm thứ tư sau khi công ty cho biết hoạt động toàn cầu của một công ty con, TNT Express, cũng đã bị ảnh hưởng.
+LOẠI RANSOMWARE NÀY LÀ GÌ. Các nhà nghiên cứu về an ninh mạng đầu tiên gọi nó là cuộc tấn công ransomware Petya loại mới, vì nó giống như một loại ransomware được biết đến bởi cùng cái tên đó được Kasperksy báo cáo lần đầu tiên vào tháng 3 năm 2016. Tuy nhiên, sau đó Kaspersky nói rằng việc điều tra vụ tấn công mới cho thấy nó là một loại ransomware chưa từng có trước đây.
+Hình ảnh và video của các máy tính chịu ảnh hưởng bởi cuộc tấn công này cho thấy thông điệp của văn bản màu đỏ trên một màn hình màu đen: "Rất tiếc, các tập tin quan trọng của bạn đã được mã hóa. Nếu bạn nhìn thấy văn bản này thì các tệp của bạn không thể truy cập được vì chúng đã được mã hóa. Có lẽ bạn đang bận tìm kiếm để phục hồi các tập tin của bạn nhưng vô ích thôi."
+Symantec, một công ty bảo mật không gian mạng ở Thung lũng Silicon, đã xác nhận rằng ransomware đã lây nhiễm cho các máy tính thông qua ít nhất một lỗ hổng, hoặc dễ bị tổn hại đối với các hệ thống máy tính, gọi là Eternal Blue.
+Lỗ hổng đã bị rò rỉ trực tuyến vào tháng 4 năm ngoái bởi một nhóm hacker bí ẩn tên là Shadow Brokers, người trước đây đã công khai các công cụ hacker được Cơ quan An ninh Quốc gia sử dụng.
+Lỗ hổng này đã được sử dụng hồi tháng 5 nhằm lan rộng ransomware WannaCry, làm ảnh hưởng tới hàng trăm nghìn máy tính tại hơn 150 quốc gia.
+NGƯỜI DÂN ĐANG TRẢ TIỀN. Các nhà nghiên cứu an ninh mạng đã xác định được một địa chỉ Bitcoin mà những kẻ tấn công yêu cầu các nạn nhân mỗi người phải trả 300 USD.
+Tối thiểu đã có một số người dường như đã trả tiền (Vào sáng thứ tư, địa chỉ đã ghi nhận lại 45 giao dịch), mặc dù địa chỉ email mà kẻ tấn công sử dụng đã bị đóng. Điều đó loại bỏ khả năng những kẻ tấn công có thể khôi phục truy cập vào mạng máy tính của nạn nhân, thậm chí một khi tiền chuộc đã được trả.
+AI LÀ NGƯỜI ĐỨNG SAU CUỘC TẤN CÔNG. Trong khi mục tiêu nhắm đến được cho là nội bộ Ukraina, các nhà nghiên cứu bảo mật và cơ quan thực thi pháp luật vẫn chưa xác định được ai là hacker.
+Ransomware Petya gốc đã được phát triển và sử dụng bởi tội phạm mạng, và các biến thể đã được rao bán thông qua các trang web kinh doanh ngầm mà chỉ có thể truy cập bằng cách sử dụng các trình duyệt ẩn danh của người dùng, gây nhiều khó khăn cho các nhà nghiên cứu mạng khi lần theo dấu vết.
+LIỆU CÓ THÊM TỔN THẤT NÀO NỮA KHÔNG. Ukraina và Hoa Kì chịu ảnh hưởng nhiều nhất, mặc dù có một số báo cáo trên khắp châu Á nhưng khu vực này hầu như đã tránh được những vấn đề phổ biến ở châu Âu và Hoa Kỳ. Các nhà nghiên cứu từ Symantec tin rằng hàng chục tổ chức đã đơn độc bị ảnh hưởng tại Hoa Kỳ.
+Các chuyên gia về an ninh mạng nói rằng giống như WannaCry, loại ransomware này lây nhiễm qua các máy tính bằng cách sử dụng các lỗ hổng trong khu vực trung tâm của máy tính, được gọi là hạt nhân, khiến cho các công ty chống virus khó phát hiện. Nó cũng có khả năng tận dụng lợi thế của một máy tính độc lập chưa được bảo vệ trên một mạng lưới để lây nhiễm các máy tính trên khắp mạng lưới rộng lớn, có nghĩa là ngay cả các hệ thống được cập nhật sau WannaCry cũng có thể bị xâm nhập trở lại.
+Ransomware là một trong những hình thức tấn công trực tuyến phổ biến nhất hiện nay. Thông thường nó bắt đầu bằng việc những kẻ tấn công sẽ gửi cho nạn nhân của họ một email có chứa một liên kết hoặc một tập tin mà dường như vô hại nhưng có chứa phần mềm độc hại nguy hiểm.
+• Một khi nạn nhân nhấp vào liên kết hoặc mở tệp đính kèm, máy tính sẽ bị nhiễm bệnh. Chương trình này sẽ mã hóa máy tính, chủ yếu khóa người dùng ra khỏi các tập tin, thư mục và ổ đĩa trên máy tính đó. Trong một số trường hợp, toàn bộ mạng máy tính được kết nối có thể bị nhiễm mã độc.
+• Sau đó, nạn nhân nhận được thư yêu cầu thanh toán để kẻ tấn công mở khóa hệ thống. Việc thanh toán thường được yêu cầu bằng Bitcoin, một dạng tiền tệ số.

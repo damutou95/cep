@@ -1,0 +1,28 @@
+Bạn đã sẵn sàng chưa? Đây là tất cả dữ liệu mà Facebook và Google có về bạn
+Việc thu hoạch các thông tin chi tiết cá nhân của chúng ta đi xa hơn những gì nhiều người trong chúng ta có thể tưởng tượng.
+Tôi sẽ hiển thị chỉ việc có bao nhiêu thông tin tương tự cửa hàng Facebook và Google lưu trữ về bạn mà bạn không hề nhận ra.
+Google lưu trữ vị trí của bạn (nếu bạn đã bật tính năng theo dõi vị trí) mỗi lần bạn bật điện thoại. Bạn có thể thấy một dòng thời gian về nơi bạn đã đến từ ngày đầu tiên bạn bắt đầu sử dụng Google trên điện thoại của mình.
+Đây là nơi tôi đã ở trong 12 tháng qua ở Ailen. Bạn có thể thấy thời gian trong ngày ở vị trí và mất bao lâu để đến vị trí đó từ vị trí cũ của tôi.
+Google lưu trữ lịch sử tìm kiếm trên tất cả các thiết bị của bạn. Điều đó có thể có nghĩa là ngay cả khi bạn xóa lịch sử tìm kiếm và lịch sử điện thoại của mình trên một thiết bị, nó vẫn có thể có dữ liệu được lưu từ các thiết bị khác.
+Google tạo ra một hồ sơ quảng cáo dựa trên thông tin của bạn, bao gồm vị trí của bạn, giới tính, độ tuổi, sở thích, nghề nghiệp, sở thích, tình trạng mối quan hệ, trọng lượng có thể (cần phải mất 10lb trong một ngày?) và cả thu nhập.
+Google lưu trữ thông tin về mọi ứng dụng và tiện ích bạn sử dụng. Họ biết bạn thường xuyên sử dụng chúng như thế nào, nơi bạn sử dụng chúng và bạn sử dụng chúng để tương tác với ai. Điều đó có nghĩa là họ biết bạn nói chuyện với ai trên Facebook, bạn đang trò chuyện với những người ở quốc gia nào, thời gian bạn đi ngủ.
+Google lưu trữ tất cả lịch sử YouTube của bạn, vì vậy họ có thể biết liệu bạn có sắp trở thành cha mẹ, có hay không bạn là người bảo thủ, hay bạn là người tiến bộ, hay bạn là người Do Thái, Thiên chúa giáo, hoặc người Hồi giáo, liệu có đang cảm thấy chán nản hoặc muốn tự tử, bạn có bị chán ăn không ...
+Google cung cấp tùy chọn để tải xuống tất cả dữ liệu mà nó lưu trữ về bạn. Tôi đã yêu cầu để tải nó và tập tin chiếm 5.5GB big, nó khoảng 3 triệu trang Word.
+Liên kết này bao gồm dấu trang, email, địa chỉ liên hệ, tệp Google Drive của bạn, tất cả thông tin trên, video trên YouTube, ảnh bạn đã chụp trên điện thoại, doanh nghiệp bạn đã mua hàng từ đó, sản phẩm bạn đã mua thông qua Google …
+Họ cũng có dữ liệu từ lịch của bạn, các phiên Google hangout, lịch sử vị trí, âm nhạc mà bạn nghe, các cuốn sách của Google mà bạn đã mua, các nhóm Google bạn đang truy cập, các trang web bạn đã tạo, sở hữu, các trang bạn đã chia sẻ, số bước bạn đi bộ trong ngày ...
+Facebook cung cấp một tùy chọn tương tự để tải xuống tất cả các thông tin của bạn. Của tôi là khoảng 600MB, tương đương khoảng 400.000 văn bản Word.
+Bao gồm mọi thư bạn đã gửi hoặc đã được gửi, mọi tệp bạn đã gửi hoặc đã được gửi, tất cả các số liên lạc trong điện thoại của bạn, và tất cả các tin nhắn âm thanh mà bạn đã gửi hoặc đã được gửi đi.
+Facebook cũng lưu trữ nội dung mà bạn nghĩ rằng bạn có thể quan tâm đến việc dựa vào những điều bạn thích và những gì bạn và bạn bè của bạn nói về (Tôi dường như là chủ đề "cô gái").
+Một cách vô ích, họ cũng lưu trữ tất cả các nhãn dán mà bạn đã từng gửi trên Facebook (tôi không có ý tưởng tại sao họ làm điều này. Nó chỉ là một trò đùa ở giai đoạn này).
+Họ cũng lưu trữ mỗi khi bạn đăng nhập vào Facebook, nơi bạn đăng nhập, thời gian và từ thiết bị nào.
+Và họ lưu trữ tất cả các ứng dụng mà bạn đã từng kết nối với tài khoản Facebook của bạn, vì vậy họ có thể đoán tôi quan tâm đến chính trị và thiết kế web và đồ hoạ, rằng tôi đã độc thân giữa khoảng thời gian X và Y với việc cài đặt Tinder và tôi có điện thoại HTC vào tháng 11.
+(Side note, nếu bạn cài đặt Windows 10, đây là một hình ảnh về các tùy chọn riêng tư với 16 menu phụ khác nhau, có tất cả các tùy chọn được kích hoạt mặc định khi bạn cài đặt Windows 10)
+Các dữ liệu mà họ thu thập bao gồm theo dõi bạn đang ở đâu, những ứng dụng nào bạn đã cài đặt, khi bạn sử dụng chúng, bạn sử dụng chúng cho việc gì, truy cập vào webcam và micrô bất cứ lúc nào, địa chỉ liên hệ, email, lịch, lịch sử cuộc gọi, tin nhắn bạn gửi và nhận, các tệp bạn tải xuống, trò chơi bạn chơi, ảnh và video, nhạc, lịch sử tìm kiếm, lịch sử duyệt web của bạn, ngay cả những đài phát thanh bạn nghe.
+Tôi sẽ chỉ tóm tắt ngắn gọn về những gì trong hàng nghìn tệp tôi nhận được dưới Hoạt động của Google của tôi.
+Thứ nhất, mỗi Quảng cáo của Google mà tôi từng xem hoặc nhấp vào, mọi ứng dụng mà tôi từng tung ra hoặc sử dụng và khi tôi dùng nó, mọi trang web tôi đã truy cập và thời gian tôi làm việc đó ở đó, và mọi ứng dụng tôi đã từngncài đặt hoặc tìm kiếm.
+Họ cũng có mọi hình ảnh mà tôi đã từng tìm kiếm và lưu lại, mọi vị trí mà tôi đã từng tìm kiếm hoặc nhấp vào, mọi bài viết tôi đã từng tìm kiếm hoặc đọc và mọi tìm kiếm của Google mà tôi đã thực hiện từ năm 2009.
+Và cuối cùng là mọi video trên YouTube mà tôi đã từng tìm kiếm hoặc xem, kể từ năm 2008.
+Thông tin này có hàng triệu việc sử dụng bất chính. Bạn nói rằng bạn không phải là một kẻ khủng bố. Vậy làm thế nào bạn đã được googling Isis? Làm việc tại Google và bạn nghi ngờ vợ mình?
+Hoàn hảo, chỉ cần tìm kiếm vị trí và lịch sử tìm kiếm của mình trong 10 năm qua. Quản lý để có quyền truy cập vào tài khoản Google của ai đó? Hoàn hảo, bạn có một cuốn nhật ký theo thứ tự thời gian của tất cả mọi thứ mà người đó đã làm trong 10 năm qua.
+Đây là một trong những điều điên rồ nhất về thời hiện đại. Chúng ta sẽ không bao giờ để cho chính phủ hoặc một công ty đưa máy ảnh / micrô vào nhà của chúng ta hoặc những kẻ theo dõi những địa điểm chúng ta ở.
+Nhưng chúng ta đã đi trước và đã làm nó bởi vì - hãy xuống địa ngục với nó đi! - Tôi muốn xem các video chú chó dễ thương.

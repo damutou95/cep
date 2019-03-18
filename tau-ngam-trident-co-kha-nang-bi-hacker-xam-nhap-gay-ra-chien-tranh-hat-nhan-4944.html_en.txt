@@ -1,0 +1,24 @@
+Trident submarines could be hacked to start nuclear war
+A report from the British American Security Information Council, based in Whitehall, has pointed out dangerous security flaws in the UK's nuclear weapons programme.
+Hackers could take control of Trident submarines and start a 'catastrophic' nuclear war, experts have warned.
+A report from the British American Security Information Council (BASIC) has pointed out dangerous security flaws in the UK's nuclear weapons programme.
+If exploited, these security faults could lead to devastating loss of life and would render Britain defenceless against attack.
+The Royal Navy's submarine Vanguard which carries trident missiles. Britain has a fleet of four Vanguard-class vehicles with at least one on patrol at all times carrying 16 warheads
+The 38-page Basic report warns a security breach could 'neutralise operations, lead to loss of life, defeat or perhaps even the catastrophic exchange of nuclear warheads (directly or indirectly)'.
+The speed of technological advancement is now so fast that even submarines equipped with best security measures could be vulnerable to attack, the report said.
+Basic has reasoned that lone hackers and cyber criminals do not have the skills to 'conduct operations of the required scale and sophistication relevant to penetrating Trident systems'.
+Instead, they believe an attack could be carried out by another nation-state. 
+'We are not talking about a lone wolf teenager in a basement hacking into the controls of a missile and warhead and starting a nuclear war,' the experts said.
+'Rather, we consider the most significant threat by some margin originates from the expanding investments by leading states in their offensive cyber capabilities, alongside their existing intelligence networks.'
+Trident is Britain's nuclear weapons deterrent and is made up of  four Vanguard-class submarines.
+Each of these can carry up to 16 Trident II D5 ballistic missiles.
+Nuclear submarines spend more than half of their time at sea and very few crew members are aware of their whereabouts.
+The subs are not connected to the wide internet and are so very difficult to track down or hack.
+But the report warned that when the submarines are in port for routine maintenance and refurbishment, they could be 'injected' with malicious software.
+This malware may be able to lie dormant, waiting be activated remotely at critical moments.
+Nuclear submarines spend more than half of their time at sea and very few crew members are aware of their whereabouts
+Implanting malware in this way could allow rival states to disable nuclear arms at times of war, the report warned.
+'Relying as it does upon numerous computers, complex software and endless lines of code, the Trident system is undeniably vulnerable to cyber interference,' the report said.
+Des Browne, former UK Defence Secretary, told The Guardian that the threat of nuclear submarine hacking should be taken very seriously.
+'The WannaCry worm attack earlier this month affecting 300,000 computers worldwide, including vital NHS services, was just a taste of what is possible when cyber-weapons are stolen,' he said.
+'To imagine that critical digital systems at the heart of nuclear weapon systems are somehow immune or can be confidently protected by dedicated teams of network managers is to be irresponsibly complacent.'

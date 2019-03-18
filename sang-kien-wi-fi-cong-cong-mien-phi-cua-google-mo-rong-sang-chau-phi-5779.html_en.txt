@@ -1,0 +1,22 @@
+Google's free public Wi-Fi initiative expanded to Africa
+Nigeria, Africa's most populous nation, will be the first on the continent to receive Google's free public Wi-Fi service, the company has announced.
+Nigeria's vice president Prof Yemi Osinbajo at the launch of Google Station 'fast Wi-Fi for everyone' initiative in Nigeria on Thursday, July 26, 2018.
+The Google Station iniitiative is already live in five countries globally and will connect millions of users via 200 Wi-Fi hotspots spread across five cities in Nigeria within one year, the company said at its Google for Nigeria event Thursday.
+Google is not deploying its moonshot Project Loon to provide connectivity, instead, it is partnering with Nigerian fiber optic telecoms service provider 21st Century to roll out Wi-Fi spots at public places such as colleges, malls, markets and bus stations.
+The tech giant is not paying the service provider and venue owners for the internet access but they will be sharing ad revenues generated from usage of Google Station.
+Google was recently hit with a $5 billion fine by the European Union. The EU fined Google for unfairly pushing its apps on smartphone users and thwarting competitors.
+The fast Wi-Fi project is a critical component of the company's Next Billion Users plan to develop products for the next billion internet users, the company said. And the company has its eyes set firmly on emerging markets such as Brazil, Indonesia, India, and Nigeria to get more users online.
+The future of the internet is in the hands of the next billion users—the latest generation of internet users to come online on smartphones in places like Brazil, China, India, Indonesia, and Nigeria, said Caesar Sengupta, the project lead.
+"The next billion users are already changing the internet in three key ways: a mobile-only mindset, an instinct for ubiquitous computing, and a demand for localized content," Sengupta said.
+Prior to the Nigeria launch, Google Station service was available in India, Indonesia, Mexico and Thailand.
+Google said it needs service providers and venue owners to join as partners before it can launch in other countries on the continent.
+To convince prospective partners, Google is offering monetization opportunities to make the project sustainable.
+"We are offering new solutions to improve and expand access in Nigeria and across Africa; these launches demonstrate our commitment to Africa through products built to help people in Africa to make the most of the Internet," said Google Nigeria Country Director, Juliet Ehimuan-Chiazor.
+Nigerian tech experts noted similarities between Google Station and Facebook's Express Wi-Fi, which was launched in Nigeria in November 2017. Express Wi-Fi which is also available in Kenya, Tanzania, India, and Indonesia aims to reduce the cost of internet access.
+While Google Station is free, Express Wi-Fi users pay $5.52 for 10GB of data.
+At the launch last year, Uche Ofodile, Regional Head of Africa, Express Wi-Fi by Facebook said the initiative aims to reduce barriers to connectivity such as limited infrastructure and high data costs, giving more people, such as small business entrepreneurs and developers, the opportunity to connect and build community.
+Nigerian tech developer and senior consultant, Gbolahan Alli believes Google is embarking on the project in Nigeria because its business model depends on internet accessibility.
+"Africa is largely an untapped market so it makes sense for them to try to get the next set of billion users by investing in the infrastructure themselves," he tells CNN.
+He believes the initiative will benefit Nigerians using the internet for the first time and those that cannot afford Nigeria's high data cost.
+According to Web Foundation's 2017 Affordability Report, only 17% of Nigerians with mobile internet users have access to public Wi-Fi, and the cost of a 1GB prepaid data plan is about 8% of a Nigeria's average monthly income while the country's mobile broadband penetration rate is below 12%.
+To ensure that its users can access its services in spite of the high data cost, Google also unveiled new apps under its Go initiative targeted at internet users with low bandwidth connections and low-RAM devices.

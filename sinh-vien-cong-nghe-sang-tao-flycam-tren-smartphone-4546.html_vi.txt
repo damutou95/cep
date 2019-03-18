@@ -1,0 +1,14 @@
+Sinh viên công nghệ tạo ra flycam dành cho điện thoại thông minh
+Một nhóm sinh viên của trường đại học FPT đã báo cáo luận văn của họ với một sản phẩm mang tên "Humimingbird" - một máy bay cho phép người dùng chụp hình tự sướng với độ cao trên 10m bằng điện thoại của họ.
+Năm nam sinh viên chuyên ngành kỹ thuật phần mềm của đại học FPT đã nghĩ ra việc sử dụng một máy bay mini và một thiết bị điều khiển để chụp hình từ trên cao.
+Họ đã quyết định rằng chiếc Hummingbird của họ phải khác so những flycams có giá đắt có sẵn trên thị trường. Nó phải có giá hợp lý đối với hầu hết mọi người, cạnh tranh và dể sử dụng.
+Những người cha đẻ của Hummingbird đã thiết kế một ứng dụng trên điện thoại thông minh mà nó giúp người dùng thao tác trên flycam để điều khiển ,chụp hình và quay phim.
+Sản phẩm công nghệ này đã giúp tiết kiệm được thời gian và công sức để đáp ứng nhu cầu cho việc chụp ảnh toàn cảnh từ trên cao. Với sự hiểu biết sâu về thuật toán trong khi thực hiện những đồ án tại trường học, các thành viên của Humming bird đã thực hiện thành công trong việc tạo ra một camera cs thể bay với sự tiện nghi và giá cả hợp lý- một công việc đầy khó khăn,thách thức.
+Ban đầu, những thành viên của Hummingbird gặp những khó khăn trong việc giữ flycam ổn định bởi sự thiếu kinh nghiệm về những vấn đề vật lý, giải quyết những thuật toán lạ và giải quyết về tín hiệu của cảm biến. Những sinh viên IT thiếu những kinh nghiệm về cơ khí, do đó họ đã tốn nhiều thời gian để thực hành hàn, kết nối và cắt những thứ dư thừa.
+Điểm chung của cả nhóm là yêu công nghệ, đặc biệt là lập trình nhúng. Ban ngày học đến lớp học theo lịch, nên họ chỉ có thể dành thời gian cho Hummingbird sau những giờ học ở trường.
+Nhóm cũng đã trãi qua nhiều lần thất bại. Công việc không thể được tiến hành trong nhiều tuần bởi không thể giải quyết được những vấn đề gặp phải. tuy nhiên cuối cùng họ cũng thành công.
+Hummingbird được đánh giá cao bởi các giảng viên về chương trình và làm việc nhóm.
+Phan Duy Hung một giảng viên của trường ĐH FPT đã nói rằng những sinh viên đã làm việc tốt trong việc phát triển flycam về cả phần cứng lẫn phần mềm và nó có những đặc tính đáng chú ý so với những thiết bị khác.
+Với 4 tháng thì không đủ để tạo ra một sản phẩm công nghệ hoàng nhất. Do đó, nhóm cũng vẫn đang làm việc để tìm ra giải quyết tối ưu.
+Những thành viên Hummingbird lên kế hoạch để học hỏi nhiều hơn về khí động lực học và sự cân bằng trọng tải để hoàn hảo sản phẩm trước khi được tung ra thị trường.
+FPT là một trường đại học tư nhân ở Việt Nam. Là thành viên của công ty FPT- đứng đầu nhóm IT với văn phòng được đặt ở Hà Nội,TP.HCM và Đà Nẵng.

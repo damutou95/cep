@@ -1,0 +1,18 @@
+Ba trong số các tuyến cáp biển lớn của Việt Nam gặp sự cố
+Hôm chủ nhật, một nhà cung cấp dịch vụ Internet địa phương đã xác nhận với báo Tuổi Trẻ rằng ba tuyến cáp biển quan trọng kết nối với quốc tế của Việt Nam được báo cáo là đã gặp sự cố.
+Các hệ thống cáp đang được nhắc đến là tuyến cáp liên Á (IA), tuyến cáp Đông Nam Á – Trung Đông – Tây Âu (SMW3) và tuyến châu Á - Thái Bình Dương (AAG).
+Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT), một trong ba nhà cung cấp dịch vụ Internet lớn tại Việt Nam cùng với FPT Telecom và Viettel, cho biết họ đang xem xét vấn đề với hệ thống AAG cũng như các sự cố bất ngờ có thể xét đến.
+Ngay từ buổi sáng hôm thứ hai, các nhà cung cấp mạng địa phương vẫn chưa nói chắc được tính chất vấn đề xảy ra với các tuyến cáp này hoặc thông báo lịch bảo trì.
+Có những suy đoán rằng hệ thống cáp ngầm bị đứt do các cơn bão nhiệt đới liên tiếp ở Biển Đông trong vài tuần qua.
+Theo FPT Telecom, hệ thống cáp quang SMW-3 đã được kết nối vào Việt Nam vào tháng 9 năm 1999 và hoàn thành vào cuối năm 2000.
+Tuyến cáp này được dẫn bởi France Telecom và China Telecom, và được quản lý bởi Singtel, một nhà khai thác viễn thông thuộc sở hữu của chính phủ Singapore.
+Hệ thống cáp 39.000 km này là hệ thống cáp quang dài nhất thế giới, kết nối Việt Nam và 39 quốc gia khác thông qua điểm dừng tại thành phố Đà Nẵng.
+Trong khi đó, AAG là hệ thống cáp biển 20.000 km kết nối Đông Nam Á với lục địa Hoa Kỳ xuyên Thái Bình Dương thông qua Guam và Hawaii.
+Hệ thống cáp biển trị giá 560 triệu USD đã được đưa vào Việt Nam tại thành phố Vũng Tàu, tốc độ truyền tải lên đến hai terabit/giây.
+Hệ thống cáp IA được khánh thành vào tháng 11 năm 2009 với tổng chiều dài 6.800 km, kết nối người sử dụng Internet tại Việt Nam, Singapore, Philippines, Hồng Kông và Nhật Bản.
+Cáp quang 200 triệu USD này cũng có điểm dừng tại Vũng Tàu, có khả năng cung cấp tốc độ truyền tải lên đến 3,84 Tbit/s.
+Tất cả các nhà cung cấp mạng lớn ở Việt Nam xác nhận rằng họ đã có kế hoạch dự phòng để duy trì kết nối quốc tế không bị gián đoạn trong trường hợp có vấn đề với bất kỳ tuyến cáp nào.
+Cuối năm 2016, tuyến cáp quang châu Á Thái Bình Dương (APG) đã hoàn thành với sức chứa lưu lượng truy cập Internet cao nhất ở châu Á.
+Dự kiến sẽ cung cấp cho người sử dụng Internet ở Việt Nam một kết nối đáng tin cậy hơn so với hệ thống AAG khét tiếng, đã bị đứt nhiều lần trong vài năm qua.
+Kể từ tháng 7, VNPT và Viettel cũng đang vận hành trên hệ thống cáp Châu Á Châu Phi Châu Âu 1 (AAE-1).
+Hệ thống cáp quang liên kết 19 quốc gia ở Châu Á, Trung Đông và Châu Phi, và tiêu tốn 820 triệu USD để phát triển.

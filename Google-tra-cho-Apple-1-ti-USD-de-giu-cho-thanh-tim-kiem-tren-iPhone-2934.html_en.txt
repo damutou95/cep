@@ -1,0 +1,16 @@
+Google paid Apple $1 billion to keep search bar on iPhone
+“The specific financial terms of Google’s agreement with Apple are highly sensitive to both Google and Apple,” Google said
+Google Inc. is paying Apple Inc. a hefty fee to keep its search bar on the iPhone. 
+Apple received $1 billion from its rival in 2014, according to a transcript of court proceedings from Oracle Corp.’s copyright lawsuit against Google. The search engine giant has an agreement with Apple that gives the iPhone maker a percentage of the revenue Google generates through the Apple device, an attorney for Oracle said at a Jan. 14 hearing in federal court. 
+Rumors about how much Google pays Apple to be on the iPhone have circulated for years, but the companies have never publicly disclosed it. Kristin Huguet, a spokeswoman for Apple, and Google spokesman Aaron Stein both declined to comment on the information disclosed in court. 
+The revenue-sharing agreement reveals the lengths Google must go to keep people using its search tool on mobile devices. It also shows how Apple benefits financially from Google’s advertising-based business model that Chief Executive Officer Tim Cook has criticized as an intrusion of privacy. 
+Oracle has been fighting Google since 2010 over claims that the search engine company used its Java software without paying for it to develop Android. The showdown has returned to U.S. District Judge William Alsup in San Francisco after a pit stop at the U.S. Supreme Court, where Google lost a bid to derail the case. The damages Oracle now seeks may exceed $1 billion since it expanded its claims to cover newer Android versions. 
+34 percent 
+Annette Hurst, the Oracle attorney who disclosed details of the Google-Apple agreement at last week’s court hearing, said a Google witness questioned during pretrial information said that “at one point in time the revenue share was 34 percent.” It wasn’t clear from the transcript whether that percentage is the amount of revenue kept by Google or paid to Apple. 
+An attorney for Google objected to the information being disclosed and attempted to have the judge strike the mention of 34 percent from the record. 
+“That percentage just stated, that should be sealed,” lawyer Robert Van Nest said, according to the transcript. “We are talking hypotheticals here. That’s not a publicly known number.” 
+The magistrate judge presiding over the hearing later refused Google’s request to block the sensitive information in the transcript from public review. Google then asked Alsup to seal and redact the transcript, saying the disclosure could severely affect its ability to negotiate similar agreements with other companies. Apple joined Google’s request in a separate filing. 
+‘Highly sensitive’ 
+“The specific financial terms of Google’s agreement with Apple are highly sensitive to both Google and Apple,” Google said in its Jan. 20 filing. “Both Apple and Google have always treated this information as extremely confidential.” 
+The transcript vanished without a trace from electronic court records at about 3 p.m. Pacific standard time with no indication that the court ruled on Google’s request to seal it. 
+The case is Oracle America Inc. v. Google Inc., 10-cv-03561, U.S. District Court, Northern District of California (San Francisco). 

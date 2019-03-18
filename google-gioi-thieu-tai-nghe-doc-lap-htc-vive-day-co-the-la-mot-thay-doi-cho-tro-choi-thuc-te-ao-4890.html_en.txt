@@ -1,0 +1,16 @@
+Google unveils standalone HTC Vive headset - and it could be a game changer for virtual reality 
+The new wireless standalone headset will make virtual reality more accessible than ever before.
+Google has made surprise announcement at its I/O developer conference, and it could be a game changer for virtual reality.
+During a keynote presentation at the Shoreline Amphitheatre in Mountain View, California, Google chief executive Sundar Pichai unveiled a new version of the popular HTC Vive headset, running Google's virtual reality software, Daydream.
+First unveiled at the same event last year, Daydream is Google's virtual reality operating system, which provides a platform for VR apps in the same way that Android provides a platform for mobile apps.
+While details about the new HTC Vive headset are scant, Pichai said it is wireless and designed to work as a standalone device, meaning it doesn't rely on a smartphone or PC for power.
+Google teased the new wireless standalone headset at its annual developer conference
+This represents a dramatic departure from the original HTC Vive, which has to be plugged into an extremely powerful - and expensive - PC, in order to work.
+However, it's also unlike other wireless virtual reality headsets, such as the Samsung Gear VR and Google Daydream View, which are essentially dumb headsets, with a smartphone slot at the front.
+These headsets rely on the smartphone to carry out all of the data and graphics processing, whereas the new HTC Vive does everything itself.
+Unlike the Playstation VR, which is aimed squarely at gamers, the new HTC Vive is intended as a general-purpose virtual reality headset.
+The HTC Vive is one of the market-leading virtual reality headsets
+"From storytellers and manufacturers to doctors and teachers, VR is impacting every part of society and sparking imagination like never before," said HTC in a blog post.
+"More information on Vive’s standalone VR headset will be made available soon, but rest assured it will be simple, easy-to-use and with no cables to connect. Just pick it up, put it on and be fully immersed in your new reality."
+The new HTC Vive won't be the only VR headset to run Google's Daydream software - the company is reportedly planning to support a range of standalone headsets.
+However the Vive already has a headstart over its rivals - having built a reputation as a leader in virtual reality over the past year - and the portability of the new headset, together with the removal of the requirement for an expensive computer, will undoubtedly help bring virtual reality into the mainstream.

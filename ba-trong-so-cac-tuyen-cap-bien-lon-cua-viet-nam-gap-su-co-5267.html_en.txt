@@ -1,0 +1,18 @@
+​Three of Vietnam’s major submarine Internet cables report problems
+Problems have been reported on three submarine communications cables crucial to Vietnam’s international connectivity, a local Internet service provider confirmed to Tuoi Tre (Youth) newspaper on Sunday.
+The cable systems in question are the Intra-Asia (IA), South-East Asia - Middle East - Western Europe 3 (SMW-3) and Asia America Gateway (AAG).
+Vietnam Posts and Telecommunications Group (VNPT), one of three major Internet service providers in Vietnam alongside FPT Telecom and Viettel, said it was looking into the problem with the AAG system as well as considering contingencies.
+As of Monday morning, local providers were yet to say conclusively the nature of the problems with these cables or announce a maintenance schedule.
+There is speculation that the submarine system was ruptured by consecutive tropical storms in the East Vietnam Sea over the past few weeks.
+According to FPT Telecom, the SMW-3 cable system was connected to Vietnam on September 1999 and completed in late 2000.
+It is led by France Telecom and China Telecom, and is administered by Singtel, a telecommunications operator owned by the government of Singapore.
+The 39,000-kilometer system is the longest in the world, connecting Vietnam and 39 other countries through the landing point in central Da Nang City.
+Meanwhile, the AAG is a 20,000-km submarine communications cable system connecting Southeast Asia with the U.S. mainland across the Pacific Ocean via Guam and Hawaii.
+The US$560 million submarine system strikes land in Vietnam in Vung Tau City in the south, delivering up to two terabits per second.
+The IA cable system was inaugurated on November 2009 with a total length of 6,800 km, linking Internet users in Vietnam, Singapore, the Philippines, Hong Kong and Japan.
+The $200 million cable also makes its landing point in Vung Tau, capable of delivering up to 3.84 Tbit/s.
+All major providers in Vietnam confirmed that they had backup plans in place to maintain uninterrupted international connectivity in the event of problems with any of the cables.
+In late 2016, the Asia Pacific Gateway (APG) was completed with the highest Internet traffic capacity in Asia.
+It was expected to offer Internet users in Vietnam a more reliable connection than the infamous AAG system, which has suffered repeated ruptures over the past few years.
+Since July, VNPT and Viettel have been operating on the Asia Africa Europe 1 (AAE-1) cable system as well.
+The communications system links 19 countries in Asia, the Middle East and Africa, and cost $820 million to develop.
